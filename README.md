@@ -26,7 +26,7 @@ jmeter -g Project5000.jtl -o Project1.html
 [PDF](https://drive.google.com/file/d/10dzwV_crWbvO-GgkxEqdMgWM6iDSjx1Q/view?usp=sharing)
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/339px-Apache_Feather_Logo.svg.png?20220805205423"  width="20" height="20"> Jmeter report  
-#### Html Format :https://sayid1218.github.io/Performance_Testing_Project_1/Quick-solution.html/
+#### Html Format: https://sayid1218.github.io/Performance_Testing_Project_2/Report/index.html
 ### Thread Properties:
 
 | Thread Properties | Number |
