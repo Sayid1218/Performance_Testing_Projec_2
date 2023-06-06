@@ -1,6 +1,6 @@
 
 # :page_facing_up: Report
-# Performance_Testing_Project_2
+# Student Booking System: 
 ## :memo: How to run this project
 ### 🖥 Run by JMeter
 * Clone this repository.
@@ -35,13 +35,4 @@ jmeter -g Project5000.jtl -o Project1.html
 | Ramp-up Periods  | 1  |
 | Loop Count  | 1  |
 
-![image](https://github.com/Sayid1218/Performance_Testing_Project_1/assets/97175166/f6b764b1-9aba-4f21-b893-36cdcc2c2569)
- 
- ## Front-end Performance 
-### PageSpeed Insights:
-* For Desktop
-![image](https://github.com/Sayid1218/Performance_Testing_Project_1/assets/97175166/03feb246-ebca-4b58-9706-c0ead0bac7f3)
-#### Full Report: https://pagespeed.web.dev/analysis/https-quick-solution-2-web-app/jq34153laa?form_factor=desktop
-* For Phone
-![image](https://github.com/Sayid1218/Performance_Testing_Project_1/assets/97175166/eea51cdd-c99e-4ce1-bc23-7fa54074d372)
-#### Full Report: https://pagespeed.web.dev/analysis/https-quick-solution-2-web-app/jq34153laa?form_factor=mobile
+![image](https://github.com/Sayid1218/Performance_Testing_Project_2/assets/97175166/a09daa11-fce1-4214-adb2-c47c85c07b22)
